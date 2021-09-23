@@ -27,4 +27,4 @@ I am currently pursuing Bachelors in Technology in Computer Science and Engineer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitSingh27&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitSingh27&theme=solarized_dark) 
 
-![](https://komarev.com/ghpvc/?username=HarshitSingh27&color=solarized_dark)
+![](https://komarev.com/ghpvc/?username=HarshitSingh27&color=green)
