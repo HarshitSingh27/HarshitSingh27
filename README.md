@@ -23,8 +23,8 @@ I am currently pursuing Bachelors in Technology in Computer Science and Engineer
 
 <h2 align="left">Some Stats </h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitSingh27&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitSingh27&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitSingh27&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitSingh27&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitSingh27&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitSingh27&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=HarshitSingh27&color=green)
