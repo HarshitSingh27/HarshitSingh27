@@ -19,7 +19,7 @@
 
 <h2 align="left">About me </h2>
 
-I am currently pursuing Bachelors in Technology in Computer Science and Engineering from SRM Institute Of Science and Technology.I am a **MEAN** stack developer who is currently exploring the field of Artifical Intelligence and Machine Learning 
+I am currently pursuing Bachelors Masters in Computer Science from University of Illinois Urbana-Champaign.I am a **MEAN** stack developer who is currently exploring the field of Artifical Intelligence and Machine Learning 
 
 
 <h3 align="left">Languages and Tools:</h3>
