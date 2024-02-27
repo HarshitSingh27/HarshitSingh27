@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/train_with_harshit/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:mail.harshitsingh2727@gmail.com">
+  <a href="mailto:haarshit.singhs@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://github.com/HarshitSingh27">
