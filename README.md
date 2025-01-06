@@ -19,7 +19,7 @@
 
 <h2 align="left">About me </h2>
 
-’m Harshit Singh, a Computer Science graduate student at the University of Illinois Urbana-Champaign, graduating in May 2025. With 1.5 years of hands-on experience through impactful internships at Palm Beach County, Tata Consultancy Services, and Paperplane Communications, I’ve built AI-driven applications, scalable data pipelines, predictive models, and database solutions. My work has powered real-world applications, optimized systems, and supported decision-making processes. I’m currently seeking full-time opportunities to create data-driven solutions that deliver meaningful impact.
+I’m Harshit Singh, a Computer Science graduate student at the University of Illinois Urbana-Champaign, graduating in May 2025. With 1.5 years of hands-on experience through impactful internships at Palm Beach County, Tata Consultancy Services, and Paperplane Communications, I’ve built AI-driven applications, scalable data pipelines, predictive models, and database solutions. My work has powered real-world applications, optimized systems, and supported decision-making processes. I’m currently seeking full-time opportunities to create data-driven solutions that deliver meaningful impact.
 
 
 <h3 align="left">Languages and Tools:</h3>
